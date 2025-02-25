@@ -219,7 +219,7 @@ const SignUp = () => {
             </button>
           </div>
           <p
-          className="mt-5 text-center cursor-pointer mt-32 text-gray-400"
+          className="text-center cursor-pointer mt-32 text-gray-400"
           onClick={toggleForm}
         >
           {isSignUp
